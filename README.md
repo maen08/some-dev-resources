@@ -1,4 +1,4 @@
-# Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving.
+# Some Resources.
 
 ## Problems & Tips
 - [CSES](https://cses.fi/problemset/)
@@ -58,5 +58,5 @@
 
 
 
-## Thanks to all the contributors ❤️
+### Thanks to all the contributors ❤️
 - [maen](https://github.com/maen08)
